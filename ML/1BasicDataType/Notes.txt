@@ -4,3 +4,9 @@
 # one line comment
 
 print("text", end='\n') end добавляет в конце строки что-то что угодно по дефолтку новую строку
+
+mum1 // num2 целочисленное деление
+num1 % num2 остаток от деления
+
+name = 'name'
+fstrings = f'Hi my friedn {name}'
